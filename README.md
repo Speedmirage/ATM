@@ -5,7 +5,7 @@ This program virtually introduces the user to a ATM main menu. The program allow
 
 ## How to Run it?
 
-Since this program requires multiple files to run; It wasn't able to run on a cloud based compiler. Therefore, you can find all the necessary files [here](). Lastly, if you are using Xcode an Xcode project was included for your convinience :).
+Since this program requires multiple files to run; It wasn't able to run on a cloud based compiler. Therefore, you can find all the necessary files [here](). Lastly, if you are using Xcode an Xcode project was included for your convinience :)
 
 
 
